@@ -1,0 +1,26 @@
+{
+    "name": "Simple Blue-Gray",
+    "manifest_version": 2,
+    "theme": {
+        "colors": {
+            "bookmark_text": [ 3, 45, 68 ],
+            "frame": [ 29, 86, 138 ],
+            "ntp_background": [ 207,216,220 ],
+            "ntp_link": [ 6, 106, 161 ],
+            "ntp_section": [ 230, 245, 254 ],
+            "ntp_section_link": [ 6, 106, 161 ],
+            "ntp_section_text": [ 3, 45, 68 ],
+            "ntp_text": [ 3, 45, 68 ],
+            "tab_background_text": [ 3, 45, 68 ],
+            "tab_text": [ 3, 45, 68 ],
+            "toolbar": [ 230, 245, 254 ]
+        },
+        "properties": {
+            "ntp_background_alignment": "center top",
+            "ntp_background_repeat": "no-repeat",
+            "ntp_logo_alternate": 1
+        }
+    },
+    "update_url": "http://clients2.google.com/service/update2/crx",
+    "version": "1.0"
+}
