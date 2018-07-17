@@ -5,7 +5,7 @@
         "colors": {
             "bookmark_text": [ 3, 45, 68 ],
             "frame": [ 29, 86, 138 ],
-            "ntp_background": [ 207,216,220 ],
+            "ntp_background": [ 160,175,175 ],
             "ntp_link": [ 6, 106, 161 ],
             "ntp_section": [ 230, 245, 254 ],
             "ntp_section_link": [ 6, 106, 161 ],
