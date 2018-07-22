@@ -10,10 +10,13 @@
             "ntp_section": [ 230, 245, 254 ],
             "ntp_section_link": [ 6, 106, 161 ],
             "ntp_section_text": [ 3, 45, 68 ],
-            "ntp_text": [ 3, 45, 68 ],
-            "tab_background_text": [ 3, 45, 68 ],
-            "tab_text": [ 3, 45, 68 ],
-            "toolbar": [ 230, 245, 254 ]
+            "ntp_text": [ 255, 255, 255 ],
+            "tab_background_text": [ 227,242,253 ],
+            "tab_text": [ 97,97,97 ],
+            
+            "toolbar": [ 230, 245, 254 ],
+            "frame_incognito": [ 40, 43, 45 ],
+            "frame_incognito_inactive": [ 56, 59, 61 ]
         },
         "properties": {
             "ntp_background_alignment": "center top",
@@ -22,5 +25,5 @@
         }
     },
     "update_url": "http://clients2.google.com/service/update2/crx",
-    "version": "1.1"
+    "version": "1.0.2"
 }
