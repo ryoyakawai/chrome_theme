@@ -18,6 +18,9 @@
             "frame_incognito": [ 40, 43, 45 ],
             "frame_incognito_inactive": [ 56, 59, 61 ]
         },
+        "tints":{
+            "buttons":[30, 86, 138]
+	    },
         "properties": {
             "ntp_background_alignment": "center top",
             "ntp_background_repeat": "no-repeat",
