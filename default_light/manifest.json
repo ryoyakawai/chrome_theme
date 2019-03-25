@@ -1,0 +1,29 @@
+{
+    "name":"Default-Light",
+    "description":"",
+    "manifest_version":2,
+    "theme":{
+        "images":{
+            "theme_frame":"",
+            "theme_toolbar":"",
+            "theme_tab_background":"images\/theme_tab_background.png"
+        },
+        "colors":{
+            "frame":[222,225,230],
+            "toolbar":[255,255,255],
+            "tab_text":[60,64,67],
+            "tab_background_text":[60,64,67],
+            "bookmark_text":[60,64,67],
+            "ntp_background":[255,255,255],
+            "ntp_text":[0,0,0],
+            "ntp_link":[6,55,116],
+            "button_background":[0,0,0,0]},
+        "tints":{
+            "buttons":[0,0,0.44]},
+        "properties":{
+            "ntp_background_alignment":"bottom",
+            "ntp_background_repeat":"no-repeat"
+        }
+    },
+    "version":"1.0"
+}
