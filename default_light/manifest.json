@@ -6,7 +6,7 @@
         "images":{
             "theme_frame":"",
             "theme_toolbar":"",
-            "theme_tab_background":"images\/theme_tab_background.png"
+            "theme_tab_background":""
         },
         "colors":{
             "frame":[222,225,230],
