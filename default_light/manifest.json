@@ -2,6 +2,7 @@
     "name":"Default-Light",
     "description":"",
     "manifest_version":2,
+    "theme": {
         "colors":{
             "frame":[222,225,230],
             "toolbar":[255,255,255],
