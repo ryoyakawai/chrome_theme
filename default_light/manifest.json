@@ -2,12 +2,6 @@
     "name":"Default-Light",
     "description":"",
     "manifest_version":2,
-    "theme":{
-        "images":{
-            "theme_frame":"",
-            "theme_toolbar":"",
-            "theme_tab_background":""
-        },
         "colors":{
             "frame":[222,225,230],
             "toolbar":[255,255,255],
@@ -25,5 +19,5 @@
             "ntp_background_repeat":"no-repeat"
         }
     },
-    "version":"1.0.1"
+    "version":"1.0.2"
 }
