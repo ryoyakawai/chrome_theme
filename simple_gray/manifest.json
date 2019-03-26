@@ -1,5 +1,5 @@
 {
-    "name":"Default-Light",
+    "name":"Simple Gray",
     "description":"",
     "manifest_version":2,
     "theme": {
@@ -20,5 +20,5 @@
             "ntp_background_repeat":"no-repeat"
         }
     },
-    "version":"1.0.2"
+    "version":"1.0.0"
 }
